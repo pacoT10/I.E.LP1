@@ -44,6 +44,8 @@ namespace I.E.LP1
         {
             frmListado frmListado = new frmListado();
             frmListado.Show();
+            
+
         }
     }
 }
